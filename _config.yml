@@ -48,11 +48,77 @@ indexParagraph2: I'm 23 years old, I like to draw, play games and watch stars at
 # Carousel images paths
 images:
   -
+    full: "/assets/img/slider0"
+    min: "/assets/img/slider0"
+  -
     full: "/assets/img/slider1"
     min: "/assets/img/slider1"
   -
-    full: "/assets/img/slider2"
-    min: "/assets/img/slider2"
+    full: "/assets/img/slider17"
+    min: "/assets/img/slider17"
+  -
+    full: "/assets/img/slider16"
+    min: "/assets/img/slider16"
+  -
+    full: "/assets/img/slider3"
+    min: "/assets/img/slider3"
+  -
+    full: "/assets/img/slider4"
+    min: "/assets/img/slider4"
+  -
+    full: "/assets/img/slider5"
+    min: "/assets/img/slider5"
+  -
+    full: "/assets/img/slider6"
+    min: "/assets/img/slider7"
+  -
+    full: "/assets/img/slider7"
+    min: "/assets/img/slider7"
+  -
+    full: "/assets/img/slider8"
+    min: "/assets/img/slider8"
+  -
+    full: "/assets/img/slider9"
+    min: "/assets/img/slider9"
+  -
+    full: "/assets/img/slider10"
+    min: "/assets/img/slider10"
+  -
+    full: "/assets/img/slider12"
+    min: "/assets/img/slider12"
+  -
+    full: "/assets/img/slider11"
+    min: "/assets/img/slider11"
+  -
+    full: "/assets/img/slider13"
+    min: "/assets/img/slider13"
+  -
+    full: "/assets/img/slider14"
+    min: "/assets/img/slider14"
+  -
+    full: "/assets/img/slider15"
+    min: "/assets/img/slider15"
+  -
+    full: "/assets/img/slider18"
+    min: "/assets/img/slider18"
+  -
+    full: "/assets/img/slider19"
+    min: "/assets/img/slider19"
+  -
+    full: "/assets/img/slider20"
+    min: "/assets/img/slider20"
+  -
+    full: "/assets/img/slider21"
+    min: "/assets/img/slider21"
+  -
+    full: "/assets/img/slider22"
+    min: "/assets/img/slider22"
+  -
+    full: "/assets/img/slider23"
+    min: "/assets/img/slider23"
+  -
+    full: "/assets/img/slider24"
+    min: "/assets/img/slider24"
 
 
 sections:
@@ -63,32 +129,92 @@ sections:
     paragraph: I'm drawing for few years now. Style of my drawings, is mainly anime-like, but I like to experiment with other styles.
     images:
       -
-        full: "/assets/img/Drawings1_full"
-        min: "/assets/img/Drawings1_small"
+        full: "/assets/img/art0"
+        min: "/assets/img/art0"
       -
-        full: "/assets/img/Drawings2_full"
-        min: "/assets/img/Drawings2_small"
+        full: "/assets/img/art1"
+        min: "/assets/img/art1"
       -
-        full: "/assets/img/Drawings3_full"
-        min: "/assets/img/Drawings3_small"
+        full: "/assets/img/art2"
+        min: "/assets/img/art2"
       -
-        full: "/assets/img/Drawings4_full"
-        min: "/assets/img/Drawings4_small"
+        full: "/assets/img/art3"
+        min: "/assets/img/art3"
       -
-        full: "/assets/img/Drawings5_full"
-        min: "/assets/img/Drawings5_small"
+        full: "/assets/img/art4"
+        min: "/assets/img/art4"
       -
-        full: "/assets/img/Drawings6_full"
-        min: "/assets/img/Drawings6_small"
+        full: "/assets/img/art5"
+        min: "/assets/img/art5"
       -
-        full: "/assets/img/Drawings7_full"
-        min: "/assets/img/Drawings7_small"
+        full: "/assets/img/art6"
+        min: "/assets/img/art6"
       -
-        full: "/assets/img/Drawings8_full"
-        min: "/assets/img/Drawings8_small"
+        full: "/assets/img/art7"
+        min: "/assets/img/art7"
       -
-        full: "/assets/img/Drawings9_full"
-        min: "/assets/img/Drawings9_small"
+        full: "/assets/img/art8"
+        min: "/assets/img/art8"
+      -
+        full: "/assets/img/art9"
+        min: "/assets/img/art9"
+      -
+        full: "/assets/img/art10"
+        min: "/assets/img/art10"
+      -
+        full: "/assets/img/art11"
+        min: "/assets/img/art11"
+      -
+        full: "/assets/img/art12"
+        min: "/assets/img/art12"
+      -
+        full: "/assets/img/art13"
+        min: "/assets/img/art14"
+      -
+        full: "/assets/img/art15"
+        min: "/assets/img/art15"
+      -
+        full: "/assets/img/art16"
+        min: "/assets/img/art16"
+      -
+        full: "/assets/img/art17"
+        min: "/assets/img/art17"
+      -
+        full: "/assets/img/art18"
+        min: "/assets/img/art18"
+      -
+        full: "/assets/img/art19"
+        min: "/assets/img/art19"
+      -
+        full: "/assets/img/art20"
+        min: "/assets/img/art20"
+      -
+        full: "/assets/img/art21"
+        min: "/assets/img/art21"
+      -
+        full: "/assets/img/art22"
+        min: "/assets/img/art22"
+      -
+        full: "/assets/img/art23"
+        min: "/assets/img/art23"
+      -
+        full: "/assets/img/art24"
+        min: "/assets/img/art24"
+      -
+        full: "/assets/img/art25"
+        min: "/assets/img/art25"
+      -
+        full: "/assets/img/art26"
+        min: "/assets/img/art26"
+      -
+        full: "/assets/img/art27"
+        min: "/assets/img/art27"
+      -
+        full: "/assets/img/art28"
+        min: "/assets/img/art28"
+      -
+        full: "/assets/img/art29"
+        min: "/assets/img/art29"
   -
     title: Posters
     id: posters

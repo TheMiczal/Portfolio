@@ -43,7 +43,7 @@ nav_sites:
 header: Hi.</br>I'm&nbsp;Miczał
 headerParagraph: Art speaks where words are unable to explain.
 indexParagraph1: I'm an aspiring graphic designer. I do <a href="#drawings">Drawings</a>, <a href="#conceptart">Concept Art</a>, <a href="#posters">Posters</a> and even some <a href="#programming">Programming</a>!
-indexParagraph2: I'm 21 years old, I like to draw, play games and watch stars at night. <(･ω･´)>
+indexParagraph2: I'm 23 years old, I like to draw, play games and watch stars at night. <(･ω･´)>
 
 # Carousel images paths
 images:
@@ -53,61 +53,7 @@ images:
   -
     full: "/assets/img/slider2"
     min: "/assets/img/slider2"
-  -
-    full: "/assets/img/slider3"
-    min: "/assets/img/slider3"
-  -
-    full: "/assets/img/slider4"
-    min: "/assets/img/slider4"
-  -
-    full: "/assets/img/slider5"
-    min: "/assets/img/slider5"
-  -
-    full: "/assets/img/slider6"
-    min: "/assets/img/slider6"
-  -
-    full: "/assets/img/slider7"
-    min: "/assets/img/slider7"
-  -
-    full: "/assets/img/slider8"
-    min: "/assets/img/slider8"
-  -
-    full: "/assets/img/slider9"
-    min: "/assets/img/slider9"
-  -
-    full: "/assets/img/slider10"
-    min: "/assets/img/slider10"
-  -
-    full: "/assets/img/slider11"
-    min: "/assets/img/slider11"
-  -
-    full: "/assets/img/slider12"
-    min: "/assets/img/slider12"
-  -
-    full: "/assets/img/slider13"
-    min: "/assets/img/slider13"
-  -
-    full: "/assets/img/slider14"
-    min: "/assets/img/slider14"
-  -
-    full: "/assets/img/slider15"
-    min: "/assets/img/slider15"
-  -
-    full: "/assets/img/slider17"
-    min: "/assets/img/slider17"
-  -
-    full: "/assets/img/slider18"
-    min: "/assets/img/slider18"
-  -
-    full: "/assets/img/slider19"
-    min: "/assets/img/slider19"
-  -
-    full: "/assets/img/slider20"
-    min: "/assets/img/slider20"
-  -
-    full: "/assets/img/slider21"
-    min: "/assets/img/slider21"
-  -
+
 
 sections:
   -
@@ -143,30 +89,6 @@ sections:
       -
         full: "/assets/img/Drawings9_full"
         min: "/assets/img/Drawings9_small"
-  -
-    title: Concept Art
-    id: conceptart
-    video: false
-    paragraph: Concept Art is another thing i was working on. Despite being easier to draw becouse I don't have to add shades, this is what I still have to learn the most.
-    images:
-      -
-        full: "/assets/img/CA3_full"
-        min: "/assets/img/CA3_small"
-      -
-        full: "/assets/img/CA2_full"
-        min: "/assets/img/CA2_small"
-      -
-        full: "/assets/img/CA1_full"
-        min: "/assets/img/CA1_small"
-      -
-        full: "/assets/img/CA4_full"
-        min: "/assets/img/CA4_small"
-      -
-        full: "/assets/img/CA5_full"
-        min: "/assets/img/CA5_small"
-      -
-        full: "/assets/img/CA6_full"
-        min: "/assets/img/CA6_small"
   -
     title: Posters
     id: posters
@@ -218,7 +140,31 @@ sections:
       -
         full: "/assets/img/screen7"
         min: "/assets/img/screen7"
-   
+      -
+        full: "/assets/img/screen8"
+        min: "/assets/img/screen8"
+      -
+        full: "/assets/img/screen9"
+        min: "/assets/img/screen9"
+      -
+        full: "/assets/img/screen10"
+        min: "/assets/img/screen10"
+      -
+        full: "/assets/img/screen11"
+        min: "/assets/img/screen11"
+      -
+        full: "/assets/img/screen12"
+        min: "/assets/img/screen12"
+      -
+        full: "/assets/img/screen13"
+        min: "/assets/img/screen13"
+      -
+        full: "/assets/img/screen14"
+        min: "/assets/img/screen14"
+      -
+        full: "/assets/img/screen15"
+        min: "/assets/img/screen15"
+
 
 # Footer content - please edit the _includes/footer.html file.
 

@@ -169,10 +169,10 @@ sections:
         min: "/assets/img/art12"
       -
         full: "/assets/img/art13"
-        min: "/assets/img/art14"
+        min: "/assets/img/art13"
       -
-        full: "/assets/img/art15"
-        min: "/assets/img/art15"
+        full: "/assets/img/art14"
+        min: "/assets/img/art14"
       -
         full: "/assets/img/art16"
         min: "/assets/img/art16"

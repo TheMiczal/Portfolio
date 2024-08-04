@@ -204,22 +204,34 @@ sections:
         full: "/assets/img/art25"
         min: "/assets/img/art25"
       -
+        full: "/assets/img/art28"
+        min: "/assets/img/art28"
+      -
+        full: "/assets/img/art29"
+        min: "/assets/img/art29"
+      -
+        full: "/assets/img/art31a"
+        min: "/assets/img/art31a"
+      -
+        full: "/assets/img/art31b"
+        min: "/assets/img/art31b"
+      -
+        full: "/assets/img/art31c"
+        min: "/assets/img/art31c"
+      -
         full: "/assets/img/art26"
         min: "/assets/img/art26"
       -
         full: "/assets/img/art27"
         min: "/assets/img/art27"
       -
-        full: "/assets/img/art28"
-        min: "/assets/img/art28"
-      -
-        full: "/assets/img/art29"
-        min: "/assets/img/art29"
+        full: "/assets/img/art30"
+        min: "/assets/img/art30"
   -
-    title: Posters
+    title: Posters and Flyers
     id: posters
     video: false
-    paragraph: I was mainly doing posters for my middle school. I was main artist for Festival of Technical Talents in my school for three years.
+    paragraph: I was mainly doing posters and Flyers for my middle school. I was main artist for Festival of Technical Talents in my school for three years.
     images:
       -
         full: "/assets/img/Posters1_full"
@@ -236,11 +248,20 @@ sections:
       -
         full: "/assets/img/Posters5_full"
         min: "/assets/img/Posters5_small"
-  -
+      -
+        full: "/assets/img/Posters6_full"
+        min: "/assets/img/Posters6_small"
+      -
+        full: "/assets/img/Posters7_full"
+        min: "/assets/img/Posters7_small"
+      -
+        full: "/assets/img/Posters8_full"
+        min: "/assets/img/Posters8_small"
+   -
     title: Programming
     id: programming
     video: false
-    paragraph: Im mainly interested in Graphic Design, but also I like programming. I know basics of AHK, C++ and Java but mainly I`m programming in Python. Right now im working on indie game called <a href="https://themiczal.github.io/TaleofWitchsHeart/">Tale of Witch's Heart</a>
+    paragraph: Im mainly interested in Graphic Design, but also I like programming. I know basics of AHK, C++ and Java but mainly I`m programming in Python. Right now im working on indie game called <a href="https://themiczal.github.io/TaleofWitchsHeart/">Tale of Witch's Heart.</a><a href="https://www.youtube.com/@taleofwitchsheart"> You can check Devlog here!</a>
     images:
       -
         full: "/assets/img/screen0"

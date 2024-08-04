@@ -311,7 +311,16 @@ sections:
       -
         full: "/assets/img/screen15"
         min: "/assets/img/screen15"
-
+  -
+    title: Past Projects
+    id: past
+    video: true
+    paragraph: Many years ago i did some other games. They were games made for one friend who is streamer. This was basically one giant meme.
+    images:
+      -
+        full: "/assets/img/Bs2_Trailer1"
+      -
+        full: "/assets/img/Bs2_Trailer2"
 
 # Footer content - please edit the _includes/footer.html file.
 

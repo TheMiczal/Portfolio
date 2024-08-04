@@ -257,7 +257,7 @@ sections:
       -
         full: "/assets/img/Posters8_full"
         min: "/assets/img/Posters8_small"
-   -
+  -
     title: Programming
     id: programming
     video: false

@@ -51,8 +51,8 @@ images:
     full: "/assets/img/slider0"
     min: "/assets/img/slider0"
   -
-    full: "/assets/img/slider1"
-    min: "/assets/img/slider1"
+    full: "/assets/img/slider22"
+    min: "/assets/img/slider22"
   -
     full: "/assets/img/slider17"
     min: "/assets/img/slider17"
@@ -70,7 +70,7 @@ images:
     min: "/assets/img/slider5"
   -
     full: "/assets/img/slider6"
-    min: "/assets/img/slider7"
+    min: "/assets/img/slider6"
   -
     full: "/assets/img/slider7"
     min: "/assets/img/slider7"
@@ -111,8 +111,8 @@ images:
     full: "/assets/img/slider21"
     min: "/assets/img/slider21"
   -
-    full: "/assets/img/slider22"
-    min: "/assets/img/slider22"
+    full: "/assets/img/slider1"
+    min: "/assets/img/slider1"
   -
     full: "/assets/img/slider23"
     min: "/assets/img/slider23"

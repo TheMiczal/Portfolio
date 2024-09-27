@@ -129,6 +129,9 @@ sections:
     paragraph: I'm drawing for few years now. Style of my drawings, is mainly anime-like, but I like to experiment with other styles.
     images:
       -
+        full: "/assets/img/art32"
+        min: "/assets/img/art32"
+      -
         full: "/assets/img/art0"
         min: "/assets/img/art0"
       -
@@ -257,6 +260,12 @@ sections:
       -
         full: "/assets/img/Posters8_full"
         min: "/assets/img/Posters8_small"
+      -
+        full: "/assets/img/Posters9_full"
+        min: "/assets/img/Posters9_small"
+      -
+        full: "/assets/img/Posters10_full"
+        min: "/assets/img/Posters10_small"
   -
     title: Programming
     id: programming
